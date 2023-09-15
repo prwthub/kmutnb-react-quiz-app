@@ -1,2 +1,5 @@
 # kmutnb-react-quiz-app
-Class homework.
+
+### Class Workshop
+
+พีรวิชญ์ อนันต์สุขธรรม 6303051613050
